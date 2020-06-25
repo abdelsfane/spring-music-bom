@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bom xmlns="http://cyclonedx.org/schema/bom/1.1" serialNumber="urn:uuid:7886f12a-5cf2-494c-a4c5-c83c86bf893d" version="1">
+    <components>
+        <component type="library">
+            <publisher>Pivotal Software, Inc.</publisher>
+            <group>org.springframework.boot</group>
+            <name>spring-boot-starter-groovy-templates</name>
+            <version>1.5.13.RELEASE</version>
+            <description>Starter for building MVC web applications using Groovy Templates views</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">7324311bf1d07284d011e9f0e593da0b</hash>
+                <hash alg="SHA-1">a77c12a22b599e4385959bf2f92e448676f1212e</hash>
+                <hash alg="SHA-256">fbae9f5640b514f8f4e25cfa3689ca77468acbc34951510814aeb30c8edbf65e</hash>
+                <hash alg="SHA-384">01cb1f8815a5634cec7a30d0d661be27be1e6813299c3b050d680093249cd688c61911f5c931c9fb9e0282bdde569a2d</hash>
+                <hash alg="SHA-512">40e52d2f11eaa3f3898da6413875c298c761ad580ac76b9c5b806ca5cdabb93aed7b2f948ab8063edc62bfe8be1591aa8c13305b7ba792f5879499e3a3073b5b</hash>
+            </hashes>
+            <purl>pkg:maven/org.springframework.boot/spring-boot-starter-groovy-templates@1.5.13.RELEASE?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Pivotal Software, Inc.</publisher>
+            <group>org.springframework.boot</group>
+            <name>spring-boot-starter-jdbc</name>
+            <version>1.5.13.RELEASE</version>
+            <description>Starter for using JDBC with the Tomcat JDBC connection pool</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">657987a5a9f8f60181d953bad3538f10</hash>
+                <hash alg="SHA-1">841f9a3fe4a41d043573465a2a8941d5996bbd1c</hash>
+                <hash alg="SHA-256">2664f319b90003bb90934c3e922f91b9ff24063020a7f3fb11d35f72a728f423</hash>
+                <hash alg="SHA-384">b7d00b1522a9f556d4071904929c8ccd372a53358a25259da6b15323068e6aeb10c150fb3eae676f6811d30c2bb12568</hash>
+                <hash alg="SHA-512">a2f3f20e71e3597b7aab1435d3bce9b3e152d9768fffd9ff7d71a7ffddd0ca38486f7c2dcc8a0119fb6e2d57e59dcee8f7f38df240cf5e39b9759bf27b7da1eb</hash>
+            </hashes>
+            <purl>pkg:maven/org.springframework.boot/spring-boot-starter-jdbc@1.5.13.RELEASE?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Pivotal Software, Inc.</publisher>
+            <group>org.springframework.boot</group>
+            <name>spring-boot-starter-web</name>
+            <version>1.5.13.RELEASE</version>
+            <description>Starter for building web, including RESTful, applications using Spring MVC. Uses Tomcat as the default embedded container</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">7e6d38deb85e026bd4cad7563423214c</hash>
+                <hash alg="SHA-1">4f77e9c01c13dfe035ebc4b6482da57b5e590b9b</hash>
+                <hash alg="SHA-256">89374b593524465d89724ee7c7f61bdf88388a0bf3f2f22c325c94ae86de9141</hash>
+                <hash alg="SHA-384">1cb2c2b0c67d74704622133d15d485d70396bcfd2c80aaecb54e67ad5c364cf33e1e5fdc4c1b5527b455484eff4bc13e</hash>
+                <hash alg="SHA-512">97f91ede3aa3fcd87ce3d4d7c37c481c7d53e227e3d0721f7968135b30d1d4dab47b138740046fe2ee367ccb9e389023c963e8328c662af435fbed2d38e4db2e</hash>
+            </hashes>
+            <purl>pkg:maven/org.springframework.boot/spring-boot-starter-web@1.5.13.RELEASE?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Apache Software Foundation</publisher>
+            <group>org.codehaus.groovy</group>
+            <name>groovy-all</name>
+            <version>2.4.12</version>
+            <description>Groovy: A powerful, dynamic language for the JVM</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">dddb0b3d3619875fa1c538c743ae8f99</hash>
+                <hash alg="SHA-1">760afc568cbd94c09d78f801ce51aed1326710af</hash>
+                <hash alg="SHA-256">6a56af4bd48903d56bec62821876cadefafd007360cc6bd0d8f7aa8d72b38be4</hash>
+                <hash alg="SHA-384">bcbe6ff20c622038e8529a176c9094454516584106e897c44571d021523079531520c46b60e21efb48ce467b8b66f0bd</hash>
+                <hash alg="SHA-512">67aadf0569e80a267996aae001127d603262e0169955af9ff33b50654cf7b86fe00a57e2a468ccfb296c06a82b6cd1bc464f03215f509a30566e03114815037d</hash>
+            </hashes>
+            <purl>pkg:maven/org.codehaus.groovy/groovy-all@2.4.12?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>The Apache Software Foundation</publisher>
+            <group>commons-collections</group>
+            <name>commons-collections</name>
+            <version>3.2</version>
+            <description>Types that extend and augment the Java Collections Framework.</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">7b9216b608d550787bdf43a63d88bf3b</hash>
+                <hash alg="SHA-1">f951934aa5ae5a88d7e6dfaa6d32307d834a88be</hash>
+                <hash alg="SHA-256">093fea360752de55afcb80cf713403eb1a66cb7dc0d529955b6f4a96f975df5c</hash>
+                <hash alg="SHA-384">c49bf0ba8c22252c1a7ebecbd6088690db1f3677bc6331ddb3bb8d9b5f53545ea09963c154423d474f1a8c438e130801</hash>
+                <hash alg="SHA-512">4c3361c8cf553c6fc34fe10624985bc1a08ea84547f4fb970487e99dc795a67b4bd36a0a1015492019e36dc1ae8b36def98f3ed3bf3e8382057923ddf67ee5ef</hash>
+            </hashes>
+            <purl>pkg:maven/commons-collections/commons-collections@3.2?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Pivotal Software, Inc.</publisher>
+            <group>org.springframework.boot</group>
+            <name>spring-boot-starter</name>
+            <version>1.5.13.RELEASE</version>
+            <description>Core starter, including auto-configuration support, logging and YAML</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">a344120b159167e5d152e717d80bfbc1</hash>
+                <hash alg="SHA-1">908f50d2df2fc4c7db1753da43d2de9c6d16d0e5</hash>
+                <hash alg="SHA-256">d8d8e1d533750f3d460ccc09356ce9dd4573c8605f4a073ca7576215de6c899b</hash>
+                <hash alg="SHA-384">ac8c3fc6722ac20b18e547afda01bedc9a974b15cf388679a622381b96322372819caab7e0b680a73a692f9921e82338</hash>
+                <hash alg="SHA-512">3c63247873b50c36239809ab5bf2cefb5e0001da44c6352fc386602a5864cae21f89fb360789fc28bba84f54ca86effba2ccae1f74d1f0d14ef0ea8737da29fe</hash>
+            </hashes>
+            <purl>pkg:maven/org.springframework.boot/spring-boot-starter@1.5.13.RELEASE?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Apache Software Foundation</publisher>
+            <group>org.codehaus.groovy</group>
+            <name>groovy-templates</name>
+            <version>2.4.15</version>
+            <description>Groovy: A powerful, dynamic language for the JVM</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">7a8d458d59067688e33c18a006b4268c</hash>
+                <hash alg="SHA-1">b5cbe971f2950452c1d431ea0135dd8de2d5f58e</hash>
+                <hash alg="SHA-256">833bc1d3098ec73a303fc9818e12ce320618b891bf40083e02d36042849d30c2</hash>
+                <hash alg="SHA-384">92400b84de56ded7974fcac0e329225e7d4a698d7356a353ef916c168138234bccae4ecf70396352e9a5ca35b1e90f06</hash>
+                <hash alg="SHA-512">e105f014f94c400dce16d19219415f4537d0c8fe1e1ddd94959a908f0bffcdd7dbd85a4e01e54aa6263642eb2b025b5aa51ad1a823597182d6650a09bc37c06a</hash>
+            </hashes>
+            <purl>pkg:maven/org.codehaus.groovy/groovy-templates@2.4.15?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>org.apache.tomcat</group>
+            <name>tomcat-jdbc</name>
+            <version>8.5.31</version>
+            <description>Tomcat JDBC Pool Package</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">8180490c873e7e863e6158b388014d1f</hash>
+                <hash alg="SHA-1">7caa97fbe2765d3ed89adc036b852cc46456e415</hash>
+                <hash alg="SHA-256">41c5d0ff93cb435f12e8ff3e9d1eff45ea98cfcccc5133e4f80279e1924200ef</hash>
+                <hash alg="SHA-384">3eedc48fb0616a28564b75966903eac8cdc5a5341793eeffb2fd8d8328486983f25bfc3817d614d8fa1f3711018fcca2</hash>
+                <hash alg="SHA-512">119686916a6db66f2e598886b37cdcb9f214997929d738e43d52162bf144f8fd94a45a7cfda68ceefc5529b2c3101f3011535ef181de89f587eabc248e702c11</hash>
+            </hashes>
+            <purl>pkg:maven/org.apache.tomcat/tomcat-jdbc@8.5.31?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Spring IO</publisher>
+            <group>org.springframework</group>
+            <name>spring-jdbc</name>
+            <version>4.3.17.RELEASE</version>
+            <description>Spring JDBC</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">6660725cb3a08d91facce97181f5bddc</hash>
+                <hash alg="SHA-1">861b9f6fbded300a45bc18af093c73e2de6542f2</hash>
+                <hash alg="SHA-256">6feb7c7ca44db1a15db2288adb13790a17cdd51a7ac5ad81b1f0856c48c0a746</hash>
+                <hash alg="SHA-384">4fbb292a402dc4b9c41463700477665d5065a7d8a546e7faa160241cd8faa22de3004216455854e82b6c06f3de76e932</hash>
+                <hash alg="SHA-512">00d2502b6de465ac16e58b94fadb6f963f19b385c76894416c16fc7f2cd721ba114fee5827faeca5cf2b797de9b2067a9867fb80c65024e006672174b80811ab</hash>
+            </hashes>
+            <purl>pkg:maven/org.springframework/spring-jdbc@4.3.17.RELEASE?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Pivotal Software, Inc.</publisher>
+            <group>org.springframework.boot</group>
+            <name>spring-boot-starter-tomcat</name>
+            <version>1.5.13.RELEASE</version>
+            <description>Starter for using Tomcat as the embedded servlet container. Default servlet container starter used by spring-boot-starter-web</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">e55a8519dba8e2d40f8cbe6a93840bae</hash>
+                <hash alg="SHA-1">880f4c4af539e228091babfb0e5aaea18130f6f6</hash>
+                <hash alg="SHA-256">257c495d0a376024a8b7a089fafb1c134df44e52614668381161fb4d13a796d8</hash>
+                <hash alg="SHA-384">f5555d085444cc9cc9504b1039df76142c0293aeaab6ba60a68f56519a822ad84ab409f4cef2e78409c9ad62c990392a</hash>
+                <hash alg="SHA-512">feb84e9c20e0c71d66242af023006125551b1aa1bd2bc2d57f7b92b374e789bd1b8df4e305b09c3d9212218ff5f4ece8697e71a3932cae39eaaff374293567dc</hash>
+            </hashes>
+            <purl>pkg:maven/org.springframework.boot/spring-boot-starter-tomcat@1.5.13.RELEASE?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>org.hibernate</group>
+            <name>hibernate-validator</name>
+            <version>5.3.6.Final</version>
+            <description>Hibernate's Bean Validation (JSR-303) reference implementation.</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">417eed33c6739627f9a987a77a2b5802</hash>
+                <hash alg="SHA-1">04c730be8bf55a8e9a61e79a2f2c079abf48b718</hash>
+                <hash alg="SHA-256">bc73804bd1dca71d7b2c2696d239720a654b34d46ff172516ecdac1f26adccb4</hash>
+                <hash alg="SHA-384">d63e96c743f6ba05358e31909cb01aa82271249bb7edf811e4b19b3c5b15448c53f86fe4525bf897701b41d8ae2bafd7</hash>
+                <hash alg="SHA-512">2ce205f04d96523da24a34ff79f1d398c4afb1ac3fbdc444f2e7065783e10038b956307be3568155879f89cc7b31cd2fd6c8b2a21c47f23e43e39e2e18c28713</hash>
+            </hashes>
+            <purl>pkg:maven/org.hibernate/hibernate-validator@5.3.6.Final?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>com.fasterxml.jackson.core</group>
+            <name>jackson-databind</name>
+            <version>2.8.11.1</version>
+            <description>General data-binding functionality for Jackson: works on core streaming API</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">51d5fb451e0a395b67a9df5b4e2655c9</hash>
+                <hash alg="SHA-1">341edc63fdd8b44e17b2c36abbc9b451d8fd05a5</hash>
+                <hash alg="SHA-256">a7aec1df42a9f653e3d84bb05747c8f65fad0a2767458a73546f9594ba0351d0</hash>
+                <hash alg="SHA-384">ad35a367cb9ef49ce59b1313a3dcbb6df5cf907f8d427d1b70048ee9a22dc5ea5c79b4501ebe995483e536cb65e8ebad</hash>
+                <hash alg="SHA-512">cd6468bcca23208619367cf9e2c4c75451c3d1685de97696d9d2fec1a62307dac2dc8847dae0fb4db8cead41ebf9e0bc9d71637ab884835df962dc85f8b95a73</hash>
+            </hashes>
+            <purl>pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.8.11.1?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Spring IO</publisher>
+            <group>org.springframework</group>
+            <name>spring-webmvc</name>
+            <version>4.3.17.RELEASE</version>
+            <description>Spring Web MVC</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">2a8ae502f36a428fd52a283f3e6d14fd</hash>
+                <hash alg="SHA-1">ee8dd0c586481e795787dc8b28a39e0418cb8fa2</hash>
+                <hash alg="SHA-256">19a48ec62bbad4e3a9116c6cf4ea49c43c3cb08048a66a317c419e67ad8f5d86</hash>
+                <hash alg="SHA-384">c18a1453b6bd5bf943ce8653a4ef26303d6ce3d3a8be8af5781b59ce23376f06ee667e094fcb0a41279cc8321e3adff5</hash>
+                <hash alg="SHA-512">03787e2eb11edbbd71c95a5cd1a7a4a0f7b0bff0dc886dcc138911357a9a5d148727452bc4fd288b0e29037ec55b10ebe4eafc01a5a5b95a1cb6028e67098a16</hash>
+            </hashes>
+            <purl>pkg:maven/org.springframework/spring-webmvc@4.3.17.RELEASE?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Spring IO</publisher>
+            <group>org.springframework</group>
+            <name>spring-web</name>
+            <version>4.3.17.RELEASE</version>
+            <description>Spring Web</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">fc547c98c3fadd8ad4da6ea18583625b</hash>
+                <hash alg="SHA-1">2786be085d48f0b6d304a89cbbd186a969aa92aa</hash>
+                <hash alg="SHA-256">55059cfae764bd761468f71294ba49e4ec6142a0f32fb9d2d1382380d0dbe38d</hash>
+                <hash alg="SHA-384">f49fbe1ada5fe3034e27db6c39e3b68ff6de52a4f5c9fe6296aba239248cc722c46dd9718062f1cbada0b42bab89f2b7</hash>
+                <hash alg="SHA-512">e4b1308ff19cac2251125ed63c4cccb8cb9f1ef7def7b9f53b2113105f10d52a155246a3577bf606fcc4e3fcad9f8ecf8a9ebcf9547ffab0c63372d5eb6b3471</hash>
+            </hashes>
+            <purl>pkg:maven/org.springframework/spring-web@4.3.17.RELEASE?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Pivotal Software, Inc.</publisher>
+            <group>org.springframework.boot</group>
+            <name>spring-boot-autoconfigure</name>
+            <version>1.5.13.RELEASE</version>
+            <description>Spring Boot AutoConfigure</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">b072a04e82a75afba9b47590cb86a440</hash>
+                <hash alg="SHA-1">2a08d6cb4a921fd0a58a162669da9f39d5df449c</hash>
+                <hash alg="SHA-256">0a5c9b3dd55e6f9d0d1886fea0b22b1963aae12b135dcc01b23521d7ba3ce65c</hash>
+                <hash alg="SHA-384">df38d1d6e68a5f938d5a485e8de3a6146e524c7ddf66d910e09bbdf52de30b7f437d4912efc2f20bd539a530b782e9e1</hash>
+                <hash alg="SHA-512">40e2c31c09ccbe3451dffe07159b832006fa8f2d35f9d4733baa3454bc8218ff95159839f19208a8b0bac350e65b1dfb3599c41306dc446c76d1943c1f06b787</hash>
+            </hashes>
+            <purl>pkg:maven/org.springframework.boot/spring-boot-autoconfigure@1.5.13.RELEASE?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Pivotal Software, Inc.</publisher>
+            <group>org.springframework.boot</group>
+            <name>spring-boot</name>
+            <version>1.5.13.RELEASE</version>
+            <description>Spring Boot</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">a8729c7c950c40aad23d7e9907365bb9</hash>
+                <hash alg="SHA-1">24f1f2ba3af3409ec1829e116a689ffebcaf300a</hash>
+                <hash alg="SHA-256">4e3a759b035cb1822ccd035fdf7afe6d6aaad511904e89bff3a33dfb62e99677</hash>
+                <hash alg="SHA-384">283f1e2381527f14730e03fc597efa4561be4731e4e3474901fc976ac0a56979b9df33a95ef619b9462db5bb79f890c3</hash>
+                <hash alg="SHA-512">35339745e24f56cc3ae018062860a2c98a457466fc041e30bad976987f678dae89d8a2367c238f0bb55f260be0e5a607f560c6368733fbb00cdb497dcad9943f</hash>
+            </hashes>
+            <purl>pkg:maven/org.springframework.boot/spring-boot@1.5.13.RELEASE?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Pivotal Software, Inc.</publisher>
+            <group>org.springframework.boot</group>
+            <name>spring-boot-starter-logging</name>
+            <version>1.5.13.RELEASE</version>
+            <description>Starter for logging using Logback. Default logging starter</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">4b0cde53fddc3f922863c1d1a494bc2c</hash>
+                <hash alg="SHA-1">1784b184be3b59ad81ec6ac54d03c950f3d5c263</hash>
+                <hash alg="SHA-256">94e88e45f6ca7691cde15331f423bb5447c19a4dbefb328eed197651d8889097</hash>
+                <hash alg="SHA-384">ec8bffdc7f9c329f91e286527d47673e77ef99a392da433ea2cd11b3a44273ae25c0ca8dac271ebedcb47490ddbced3f</hash>
+                <hash alg="SHA-512">b84cbf516c34749011b002964edb517b2237aee3e7c9109d22aa7c8d53fc567526055bc9b3b38a43c8f1bdb6a48f918b14937ea22e6e8633e3fc7d166fb3f9cb</hash>
+            </hashes>
+            <purl>pkg:maven/org.springframework.boot/spring-boot-starter-logging@1.5.13.RELEASE?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Spring IO</publisher>
+            <group>org.springframework</group>
+            <name>spring-tx</name>
+            <version>4.3.17.RELEASE</version>
+            <description>Spring Transaction</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">02eb061119206d1705e6c8c9d1bb0b35</hash>
+                <hash alg="SHA-1">31b31e13fceadb816d1ab15ec226fa351d72b663</hash>
+                <hash alg="SHA-256">b011fc264617b9e3f6041e6fdfff5c47efa975875e3260e19ff7ac362ecd1d75</hash>
+                <hash alg="SHA-384">d750c6bcba4bb9d04565933008d104a519c295746cb4abde4ba16b715ae7c57bd82eca9b19d8cfac4d28add62024ba39</hash>
+                <hash alg="SHA-512">4a958def98501b989441b14c613fe2c221422e17c093c16465fb7293e35752613d3eb3f710e3b1cbfa0e7192b96be77cf08185c0b99e00c338cc7f58eeb01658</hash>
+            </hashes>
+            <purl>pkg:maven/org.springframework/spring-tx@4.3.17.RELEASE?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Spring IO</publisher>
+            <group>org.springframework</group>
+            <name>spring-context</name>
+            <version>4.3.17.RELEASE</version>
+            <description>Spring Context</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">c2981d2f3d24072b5b70e026e66b5510</hash>
+                <hash alg="SHA-1">68b87279ada66e04df251917c839a604ceff82f0</hash>
+                <hash alg="SHA-256">6e13eae2be5ebbb59738bc18bfb80386f72dc016799e47431e69a70b56939567</hash>
+                <hash alg="SHA-384">4c9c128a03d79374cf2998f6267c14a023c73a2910a38bebe6f9458c5b2353a99b9742b857d6336eaa69d831dd14748a</hash>
+                <hash alg="SHA-512">5efa9a98ffe014961e92ab7c86fe991a6c29c923345b2223630945aaef108ad4a936c16984622ad16c81ed15bfd15707b907b8f5f587e7698c4523206b3d19c7</hash>
+            </hashes>
+            <purl>pkg:maven/org.springframework/spring-context@4.3.17.RELEASE?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Spring IO</publisher>
+            <group>org.springframework</group>
+            <name>spring-aop</name>
+            <version>4.3.17.RELEASE</version>
+            <description>Spring AOP</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">352a0e81c5e4c87da4408786252a1575</hash>
+                <hash alg="SHA-1">b83e9434298106e7705b31150aee2d4e0fb2cf61</hash>
+                <hash alg="SHA-256">f21cabb3952696f5ead381202ddc21d867d4964860e269ad3f29cbd0b07279c5</hash>
+                <hash alg="SHA-384">8b95cf53694a65ce965104039884d2a25cb5da162f17814de848777e9b6b552fafdd96712ba40a171cd64865c35590b1</hash>
+                <hash alg="SHA-512">03072aba1b4daf91bc6bd985655032eca0632fc043af80ab1b823b3c21513c3715cd64c44a268a953a1457d936cc28a076218fd08ac953911f48a99bca55e01b</hash>
+            </hashes>
+            <purl>pkg:maven/org.springframework/spring-aop@4.3.17.RELEASE?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Spring IO</publisher>
+            <group>org.springframework</group>
+            <name>spring-beans</name>
+            <version>4.3.17.RELEASE</version>
+            <description>Spring Beans</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">635cbed08a6f43a91105fc90ceb1ba0a</hash>
+                <hash alg="SHA-1">6f8ce46b6f446b8875f0b3160b6b1978973d4d0b</hash>
+                <hash alg="SHA-256">6ea0cae9ce926db7227d3e5d8e11e4f75663f6de08702868c320ea32a2c0c015</hash>
+                <hash alg="SHA-384">c385b0a9668dd1f2f43e8b2cd95bf3b94db0b42e57cf68fbbe43b6b5238e13da2632f3253d3d4817652745aa18cee31b</hash>
+                <hash alg="SHA-512">e8a5a8527c7231ba6c81211c60786550ec26cf549a07e52aa9e1001c624d8c0d0a056d3c6afee77aa0d55c57c3db26f2222f78464be6f5df458f9bf6b495495c</hash>
+            </hashes>
+            <purl>pkg:maven/org.springframework/spring-beans@4.3.17.RELEASE?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Spring IO</publisher>
+            <group>org.springframework</group>
+            <name>spring-expression</name>
+            <version>4.3.17.RELEASE</version>
+            <description>Spring Expression Language (SpEL)</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">a7a96d6efd52007ead439faba8a451bb</hash>
+                <hash alg="SHA-1">a7ed4d874c28aca9ad8cd1a65c58eb62c05994b7</hash>
+                <hash alg="SHA-256">f5ac07429274ea9b5bf3f7ef9320bb626b00715f2f14f8187782ea0b4f3a4175</hash>
+                <hash alg="SHA-384">39fb5d7b93c5d6e25d90cbd8074796ee0f746e3448f3f8cfff69615fb2abdbe411df631d931ad1e56d9ad6dfcfa0f788</hash>
+                <hash alg="SHA-512">d4732da2a25137b85d199dc26792b8510a213a782c04d02bd02fc54ab652f59cdce8898dd79b5519e6abfe93f1603924fea76047f05063c2683b517270c69952</hash>
+            </hashes>
+            <purl>pkg:maven/org.springframework/spring-expression@4.3.17.RELEASE?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Spring IO</publisher>
+            <group>org.springframework</group>
+            <name>spring-core</name>
+            <version>4.3.17.RELEASE</version>
+            <description>Spring Core</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">e2f709d40e72dd3a5e7aef1c4374ad4d</hash>
+                <hash alg="SHA-1">77814c99de6f8282c64a4d604024c70e238037ae</hash>
+                <hash alg="SHA-256">18fa80a85f9bf61cd29bddbab6b7121afb00d1fa6a3974de7fe6799a825d817f</hash>
+                <hash alg="SHA-384">32d312fdd56d737af93ffef4832ceb92ccbab80e3f4b90116955ff1d33ead934a36212a3dcffcdc382a57d7f4844b011</hash>
+                <hash alg="SHA-512">dccf185fefd78ae16df085a864827d4375c0321e5a143a927705103d86d6ce4adbea61394aaeb4b90b3c95ffb8c72e2991b593653671fd5e2a9fd12ade64b00a</hash>
+            </hashes>
+            <purl>pkg:maven/org.springframework/spring-core@4.3.17.RELEASE?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>org.yaml</group>
+            <name>snakeyaml</name>
+            <version>1.17</version>
+            <description>YAML 1.1 parser and emitter for Java</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">ab621c3cee316236ad04a6f0fe4dd17c</hash>
+                <hash alg="SHA-1">7a27ea250c5130b2922b86dea63cbb1cc10a660c</hash>
+                <hash alg="SHA-256">5666b36f9db46f06dd5a19d73bbff3b588d5969c0f4b8848fde0f5ec849430a5</hash>
+                <hash alg="SHA-384">58cd7b347f1440f0b29fbe44d9813c6475279d7d9fafd76d84935389d23a308830f0c3146c80f1e91c7c6556140cdf5f</hash>
+                <hash alg="SHA-512">f1158edc1cc658d7a574a6d4bb330ab26eb1fec259cae0a2fb1743eb764099b1867ac78766dc97efeda4c93fb3f34001c861d0f8b8d05916b832abd873b39f1e</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>Apache-2.0</id>
+                </license>
+            </licenses>
+            <purl>pkg:maven/org.yaml/snakeyaml@1.17?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Apache Software Foundation</publisher>
+            <group>org.codehaus.groovy</group>
+            <name>groovy-xml</name>
+            <version>2.4.15</version>
+            <description>Groovy: A powerful, dynamic language for the JVM</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">8c2aee7254a7574903570d437d22c25c</hash>
+                <hash alg="SHA-1">40865f59469e6b0808c9c304bd17038997220c72</hash>
+                <hash alg="SHA-256">94696b55f6ec444e760b6d74f748a65fcace7280cd4a2ef48a73767913f63f6d</hash>
+                <hash alg="SHA-384">b77c58efabfc0e8c8ab580054663dedb152b99a90e7486a808abb6b2dff626746981272b6b6501d285406754c50448c0</hash>
+                <hash alg="SHA-512">d87c7294beb83923784e791d80138b42b5bf132305ea4aa82f66309302f5a226006738e7b02f197b7333b16acec820dde51bdf60f94143ed7df7ab6112a96a01</hash>
+            </hashes>
+            <purl>pkg:maven/org.codehaus.groovy/groovy-xml@2.4.15?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Apache Software Foundation</publisher>
+            <group>org.codehaus.groovy</group>
+            <name>groovy</name>
+            <version>2.4.15</version>
+            <description>Groovy: A powerful, dynamic language for the JVM</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">820e79e7cf9b9b0e7d49357be03ab8fd</hash>
+                <hash alg="SHA-1">74b7e0b99526c569e3a59cb84dbcc6204d601ee6</hash>
+                <hash alg="SHA-256">2205b6649976295bc24a751b1f7b5192e9d28d3815efe39505de8dbbb99ed952</hash>
+                <hash alg="SHA-384">eec3a021c0db8c22caf681e17df33e3a4666d919e4c815a9e1af389bdce539dc9facca59781af684dfaa0760333ff334</hash>
+                <hash alg="SHA-512">c042bd260bc7944ebcd353da29a62cc678a4b307e949e0d6893697c4758d5a3ace0ba0f59f66f16c87a186e754eee0d1cc13e38fb22d15dcb1d8cd1547c6a566</hash>
+            </hashes>
+            <purl>pkg:maven/org.codehaus.groovy/groovy@2.4.15?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>org.apache.tomcat</group>
+            <name>tomcat-juli</name>
+            <version>8.5.31</version>
+            <description>Tomcat Core Logging Package</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">e0134311c40f1a9fdd8899d22a36b328</hash>
+                <hash alg="SHA-1">0603fb6e0ddd216b53a803801561661ae9c294ff</hash>
+                <hash alg="SHA-256">dbf8a5b77057c7af230c11dff20add632dd0ce7aff1ead106c9a229460cc0e23</hash>
+                <hash alg="SHA-384">adf35826fbf859921619fe7a52e2e5b6bd9085bf2c18bc3321926833252d96c0f4a463b3febaf4586f2e75159739ce54</hash>
+                <hash alg="SHA-512">4508bc056fccafe3c381ca3c9fbe1a63d2211c36f4dfcbdc59cf078520443aa4cd59ebe16cfe133256c7913182a4fcccd3aa22d9b4131104b2bcf4690548dc2c</hash>
+            </hashes>
+            <purl>pkg:maven/org.apache.tomcat/tomcat-juli@8.5.31?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>org.apache.tomcat.embed</group>
+            <name>tomcat-embed-websocket</name>
+            <version>8.5.31</version>
+            <description>Core Tomcat implementation</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">eccd8bc1e470d591c6aba09d575e58cd</hash>
+                <hash alg="SHA-1">06564e716b89de5eaa0dd234ae7989576503ddf3</hash>
+                <hash alg="SHA-256">da9d3ee5df54c0f3207d9b8613df8f9677d0d7f9168c6c9bce4fe92723cba829</hash>
+                <hash alg="SHA-384">b60a78cdfaa02bffb4f68e6c81a0162eb44c06c9ef04801e8c12bc9f18adad37d3fb83b5da684718570f637e36faa0c8</hash>
+                <hash alg="SHA-512">946bbf8715db3980d0343e6f8f98d0c544253a7c0b34366741f1437074775c91ee866e8641ff34a95ba66378d67e98e7f3b7904820a867db69d07f60985a7dd7</hash>
+            </hashes>
+            <purl>pkg:maven/org.apache.tomcat.embed/tomcat-embed-websocket@8.5.31?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>org.apache.tomcat.embed</group>
+            <name>tomcat-embed-core</name>
+            <version>8.5.31</version>
+            <description>Core Tomcat implementation</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">73dbf0ea289f58645a16632a5e2dcdd8</hash>
+                <hash alg="SHA-1">f5adf7ed8c34aa005b22b6a2dc7b6796e10e9c79</hash>
+                <hash alg="SHA-256">8a3d9c7d991f159ec7c231f374bd123a42b5165b6a661bd0a5dc7a6bd07805db</hash>
+                <hash alg="SHA-384">6b6f98b15d7c279715f856372c09d5462feba62c70f5f8232c0554cf5ae8e36c7d22793bf355f87a4d77f8df8df61ebe</hash>
+                <hash alg="SHA-512">4feb9fa5b749f884e19ccdb46362b59ddafaf22746e35d8d04f856d32a33055d844db1d224eb4af73a6c0b3a5150bacc53595c9523c142a08fdb7db7700910d5</hash>
+            </hashes>
+            <purl>pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@8.5.31?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>org.apache.tomcat.embed</group>
+            <name>tomcat-embed-el</name>
+            <version>8.5.31</version>
+            <description>Core Tomcat implementation</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">6e6ed4423e6a5e40115faee19abb8543</hash>
+                <hash alg="SHA-1">3a536e1ac71b82627c3a7408eb38fa0704cb9034</hash>
+                <hash alg="SHA-256">fa58be0972c5277d98e38ed8d070ef2f53d545ff516eaccdf26805c6dc42ccda</hash>
+                <hash alg="SHA-384">ce96c81a25bbcc6c3747a7174cebe8f9187a62ffd9bcbea296748c9e86b3a846caec601813de401ca117a30961daa1a2</hash>
+                <hash alg="SHA-512">38f5423362ebf114a2bc7a1637d0bf7b5620bfcd7dd02306a31eed395e517335e987a7eebd84d6481bed2c02f34f45debdd2bbf5b5530d6ca0ea58ad8246b38a</hash>
+            </hashes>
+            <purl>pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@8.5.31?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>javax.validation</group>
+            <name>validation-api</name>
+            <version>1.1.0.Final</version>
+            <description>Bean Validation API</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">4c257f52462860b62ab3cdab45f53082</hash>
+                <hash alg="SHA-1">8613ae82954779d518631e05daa73a6a954817d5</hash>
+                <hash alg="SHA-256">f39d7ba7253e35f5ac48081ec1bc28c5df9b32ac4b7db20853e5a8e76bf7b0ed</hash>
+                <hash alg="SHA-384">c5c2853c8d811def0417e2c2f2e91468979008637d5e87441980af17c86e17ac1b59ea0587a70f376d40ca7a99d047f9</hash>
+                <hash alg="SHA-512">bc137c5f7fa6b7092f9fc233d8be7d21d6767f8aa51c2e934b73692c82d28dbb410f55674d7b5a0e1523b514654339277b535b7f5bb01d457a11aba2eca3bbed</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>Apache-2.0</id>
+                </license>
+            </licenses>
+            <purl>pkg:maven/javax.validation/validation-api@1.1.0.Final?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>org.jboss.logging</group>
+            <name>jboss-logging</name>
+            <version>3.3.2.Final</version>
+            <description>The JBoss Logging Framework</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">c397132f958d7e8ac0d566b6723ca7ca</hash>
+                <hash alg="SHA-1">3789d00e859632e6c6206adc0c71625559e6e3b0</hash>
+                <hash alg="SHA-256">cb914bfe888da7d9162e965ac8b0d6f28f2f32eca944a00fbbf6dd3cf1aacc13</hash>
+                <hash alg="SHA-384">749c74c2887bb5edbb74d262f570b5c079a8e758c520cc55cbc08199a5da8d7ccc1d67a4912a767a8d77716090b064f0</hash>
+                <hash alg="SHA-512">29ffcc84716c6e8c8aee56534f2d09c7235fd5ddc7f9e6e0d093cfcd278c2fae6f4fc8526b4be22832c348e2d1d81d1347963a53f8840f2d048470e85ec36bb5</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>Apache-2.0</id>
+                </license>
+            </licenses>
+            <purl>pkg:maven/org.jboss.logging/jboss-logging@3.3.2.Final?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>fasterxml.com</publisher>
+            <group>com.fasterxml</group>
+            <name>classmate</name>
+            <version>1.3.4</version>
+            <description>Library for introspecting types with full generic information including resolving of field and method types.</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">1e2e0fcc510753882683417e01895242</hash>
+                <hash alg="SHA-1">03d5f48f10bbe4eb7bd862f10c0583be2e0053c6</hash>
+                <hash alg="SHA-256">c2bfcc21467351d0f9a1558822b72dbac2b21f6b9f700a44fc6b345491ef3c88</hash>
+                <hash alg="SHA-384">8a2b28b966e3f3213688621126f5aab75fc60108c2999726611568b0c0e1f6e1c024e34b84168818459cf366e91d759b</hash>
+                <hash alg="SHA-512">015e32620c434ffadab0b198e1f3346f4b3f0dd8f47bbdd3eddb7384fffc14b593e1679a7f4200a9b9f7cc25a8def67ded0a27f0dcd564703284dce6231891ef</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>Apache-2.0</id>
+                </license>
+            </licenses>
+            <purl>pkg:maven/com.fasterxml/classmate@1.3.4?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>com.fasterxml.jackson.core</group>
+            <name>jackson-annotations</name>
+            <version>2.8.0</version>
+            <description>Core annotations used for value types, used by Jackson data binding package.</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">288e6537849f0c63e76409b515c4fbe4</hash>
+                <hash alg="SHA-1">45b426f7796b741035581a176744d91090e2e6fb</hash>
+                <hash alg="SHA-256">e61b7343aceeb6ecda291d4ef133cd3e765f178c631c357ffd081abab7f15db8</hash>
+                <hash alg="SHA-384">936bfe80fea70d1672dbf18c1cf9f5b2fc7b60c43807dc66cbda1e3bd7596b2bb359ad9f331563da735a99d0b9d769c0</hash>
+                <hash alg="SHA-512">9e549c2044bd9856c7cca491f6acbd0c5a87a208e550410cbc466669328f6022d1bd89258eca7c3a765c2427b0d33c83df29cb1205bce51a1f43b4148e1bfcac</hash>
+            </hashes>
+            <purl>pkg:maven/com.fasterxml.jackson.core/jackson-annotations@2.8.0?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>com.fasterxml.jackson.core</group>
+            <name>jackson-core</name>
+            <version>2.8.11</version>
+            <description>Core Jackson abstractions, basic JSON streaming API implementation</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">bd45703517b88bbf63dbf7f1d2a6002c</hash>
+                <hash alg="SHA-1">876ead1db19f0c9e79c9789273a3ef8c6fd6c29b</hash>
+                <hash alg="SHA-256">b51bf33caa83a10b67a30fceb3111a58df1089cc1b59c23f0442661ecbef7f22</hash>
+                <hash alg="SHA-384">59bad92eb86d483c8ee797a8fdf0e134f2936a7f69abf9225d58b6cceddd06e5b48adf4f42de858685c158cff5d3bf55</hash>
+                <hash alg="SHA-512">e77cff727fad79aa547b47bb201e665ec8cb811876c9f274dc776ed4c4dfa96c77fa6bad63de855759ef49bd1089ad07429f00ee5d9a229735f8502f162c0df6</hash>
+            </hashes>
+            <purl>pkg:maven/com.fasterxml.jackson.core/jackson-core@2.8.11?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>ch.qos.logback</group>
+            <name>logback-classic</name>
+            <version>1.1.11</version>
+            <description>logback-classic module</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">8064835579ddb2c86ae26b447b0c5f76</hash>
+                <hash alg="SHA-1">ccedfbacef4a6515d2983e3f89ed753d5d4fb665</hash>
+                <hash alg="SHA-256">86a0268c3c96888d4e49d8a754b5b2173286aee100559e803efcbb0df676c66e</hash>
+                <hash alg="SHA-384">ab69b626149a411315d46c0a2acb395662cba5c72b6b6c4b21ad884562968e83387509c4e744109527c5b22d646bb6ed</hash>
+                <hash alg="SHA-512">9058a4d6b4abc72cb56cb10836fdc87ac829e7e8c436bda5b0630c2702ba28d5dfbc123771fa8eb566431617ffdffeadba2f55b6d22658b6fe1d263ec27393df</hash>
+            </hashes>
+            <purl>pkg:maven/ch.qos.logback/logback-classic@1.1.11?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>org.slf4j</group>
+            <name>jcl-over-slf4j</name>
+            <version>1.7.25</version>
+            <description>JCL 1.2 implemented over SLF4J</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">56b22adc639b09b2e917f42d68b26600</hash>
+                <hash alg="SHA-1">f8c32b13ff142a513eeb5b6330b1588dcb2c0461</hash>
+                <hash alg="SHA-256">5e938457e79efcbfb3ab64bc29c43ec6c3b95fffcda3c155f4a86cc320c11e14</hash>
+                <hash alg="SHA-384">6928492388b56628cf4a2b8411d4032d179a9cf318b03fb4bade1ef690e75813354482a68d667f64d9f2c7dad57ff9db</hash>
+                <hash alg="SHA-512">0a703864b269de6f7bc98df0fa98aa943cc327a4ca2915899d460e4a071fcc3fbe70957eb91b740cc935d0960b3d98f30c54a0a4019d7ae8c6d50f51edb8d149</hash>
+            </hashes>
+            <purl>pkg:maven/org.slf4j/jcl-over-slf4j@1.7.25?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>org.slf4j</group>
+            <name>jul-to-slf4j</name>
+            <version>1.7.25</version>
+            <description>JUL to SLF4J bridge</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">ab28124cb05fec600f2ffe37b94629e0</hash>
+                <hash alg="SHA-1">0af5364cd6679bfffb114f0dec8a157aaa283b76</hash>
+                <hash alg="SHA-256">416c5a0c145ad19526e108d44b6bf77b75412d47982cce6ce8d43abdbdbb0fac</hash>
+                <hash alg="SHA-384">1758d8f3b244e66b46d34d62162714abbbe0d535e69f654e1e1de65ed48e255042a7ed892cbd942453ac69f24b162064</hash>
+                <hash alg="SHA-512">61d40a8d5aeccc80134ccefd1e7b6abfd3908af1d4470f3a964b70b38304c7a6edd551066a834854d7b8483d240344a537e300bc69ef4cf038fc97f8455e6ade</hash>
+            </hashes>
+            <purl>pkg:maven/org.slf4j/jul-to-slf4j@1.7.25?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>org.slf4j</group>
+            <name>log4j-over-slf4j</name>
+            <version>1.7.25</version>
+            <description>Log4j implemented over SLF4J</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">fb818c7981d842875905587a61f2b942</hash>
+                <hash alg="SHA-1">a87bb47468f47ee7aabbd54f93e133d4215769c3</hash>
+                <hash alg="SHA-256">c84c5ce4bbb661369ccd4c7b99682027598a0fb2e3d63a84259dbe5c0bf1f949</hash>
+                <hash alg="SHA-384">0c37929867ac7e140e9d2448066a990541a335bd043ed3e56a82dee5b0e2c2da5580a0b267ca3ae46549b728a5e26cbe</hash>
+                <hash alg="SHA-512">0903a65cc6521f31226a4ed80816a334c6a0b8432fbc6d09c4cb99db246edd39374c6f57727e7838e89465916f7e3fbd29fd75e56040b722a2aac04c240e90e9</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <name>Apache Software Licenses</name>
+                </license>
+            </licenses>
+            <purl>pkg:maven/org.slf4j/log4j-over-slf4j@1.7.25?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>org.apache.tomcat</group>
+            <name>tomcat-annotations-api</name>
+            <version>8.5.31</version>
+            <description>Annotations Package</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">ee32d85220990818c952446423d37a03</hash>
+                <hash alg="SHA-1">f0758d8b5d1404cc25f98945bdd5959699658b4a</hash>
+                <hash alg="SHA-256">cf8e1f1318665d7b4bd76231f2c2660309397f8f221895322301463506e0d04e</hash>
+                <hash alg="SHA-384">91ab25e33b43fda6a0bed0d3479accbc1a2e08f775e0f432966714c2fa1d8d0c02389c3ab8c21803ec975493e1a368d3</hash>
+                <hash alg="SHA-512">972bd231cf23a3ff67defe59f8e9cf58b24136d093a28205cbaa09a4b46c04aecbb57897f353a7ecb816fa89ddb91e8c9466e8626e07fb5a1c69f456f159dafa</hash>
+            </hashes>
+            <purl>pkg:maven/org.apache.tomcat/tomcat-annotations-api@8.5.31?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>ch.qos.logback</group>
+            <name>logback-core</name>
+            <version>1.1.11</version>
+            <description>logback-core module</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">cc7a8deacd26b0aa2668779ce2721c0f</hash>
+                <hash alg="SHA-1">88b8df40340eed549fb07e2613879bf6b006704d</hash>
+                <hash alg="SHA-256">58738067842476feeae5768e832cd36a0e40ce41576ba5739c3632d376bd8c86</hash>
+                <hash alg="SHA-384">edfe845793cf4cc86288a0cce09ff528889a6fd98f987ddd9cd4b94f3c865a2bc471f0a8d5ec0f5489c2a4ca57e606b4</hash>
+                <hash alg="SHA-512">ba95809db2641fd9042624475e66b43ea497aaee53e31f440f7d08f5f2cd96b66afb0e41d7fd8897c829ee91605a7a76da5bf7dfdc4669b46f45c225d869a395</hash>
+            </hashes>
+            <purl>pkg:maven/ch.qos.logback/logback-core@1.1.11?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>org.slf4j</group>
+            <name>slf4j-api</name>
+            <version>1.7.25</version>
+            <description>The slf4j API</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">caafe376afb7086dcbee79f780394ca3</hash>
+                <hash alg="SHA-1">da76ca59f6a57ee3102f8f9bd9cee742973efa8a</hash>
+                <hash alg="SHA-256">18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79</hash>
+                <hash alg="SHA-384">f2791380e87fccb18519efd016c03be11206984f4765586d348e57e2f33756b21ed51a95fa09679e1473a5bf5d2d76e1</hash>
+                <hash alg="SHA-512">5dd6271fd5b34579d8e66271bab75c89baca8b2ebeaa9966de391284bd08f2d720083c6e0e1edda106ecf8a04e9a32116de6873f0f88c19c049c0fe27e5d820b</hash>
+            </hashes>
+            <purl>pkg:maven/org.slf4j/slf4j-api@1.7.25?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>com.h2database</group>
+            <name>h2</name>
+            <version>1.4.197</version>
+            <description>H2 Database Engine</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">f9893acfa22b7fe1492dd9c515af2e5b</hash>
+                <hash alg="SHA-1">bb391050048ca8ae3e32451b5a3714ecd3596a46</hash>
+                <hash alg="SHA-256">37f5216e14af2772930dff9b8734353f0a80e89ba3f33e065441de6537c5e842</hash>
+                <hash alg="SHA-384">01dd965926471f6cbd84b0466307ae2f0450cb204ca51cc43b538dd4d7571e096a966ac298d82e4942db4dd259d800b6</hash>
+                <hash alg="SHA-512">aa4af17f766a1cfb0326d0301e1c40fc884b27e73aed4e60141d284275da70f483a3ce54d65f79f9ba66e9a53c5a68102dfc5e40a36e9d2c0a2aa9a7f7321688</hash>
+            </hashes>
+            <purl>pkg:maven/com.h2database/h2@1.4.197?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Oracle Corporation</publisher>
+            <group>mysql</group>
+            <name>mysql-connector-java</name>
+            <version>8.0.8-dmr</version>
+            <description>MySQL JDBC Type 4 driver</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">57590fe64298d9985f70ad2c862a42f9</hash>
+                <hash alg="SHA-1">2b1c562057c48d99ac71d1dea7c8ccebe1e43812</hash>
+                <hash alg="SHA-256">82ec775169c218d871b6266655ae79209cdf7c2ac2318502008c2ec389fc8d55</hash>
+                <hash alg="SHA-384">d3e7df5deeae985dd239f1a069ba21a7813370dafd60d537ccb62ff6951a788deca43030075c627e7ebc98bf03630fa4</hash>
+                <hash alg="SHA-512">9666c19a5a5bbe5d50cfb877ea02fe2748ff2a7dd5c41d3ee2fa09664833bd086a6eda434fcbc36ca3083172c6daaa32261822bc64b4e9aabc8f8e4cc87e7270</hash>
+            </hashes>
+            <purl>pkg:maven/mysql/mysql-connector-java@8.0.8-dmr?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>org.slf4j</group>
+            <name>slf4j-simple</name>
+            <version>1.8.0-beta4</version>
+            <description>SLF4J Simple binding</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">8ef3874e79b5ce86faa79ac2d95cde55</hash>
+                <hash alg="SHA-1">1531950ac50afd70a4d02f10b6aaf6d6a6a7669e</hash>
+                <hash alg="SHA-256">bac66abc5b4462dff62e1e19ab3b0a65c160ebcd564cf25910db003a8e569cfd</hash>
+                <hash alg="SHA-384">564bce755f748ef6e0530ff05541c6c5ec482efca89d66edcfbd08badd2b3c209d31b4fa8d9a0ecef96601c7453f4897</hash>
+                <hash alg="SHA-512">00c21c27264b9a95712cbd733cc0cab15c9704be260232a68cac2259a2bb7eb220a92624f0a8f592e29cd520727018ad8f42798d7c282fe8b2ff319a87163104</hash>
+            </hashes>
+            <purl>pkg:maven/org.slf4j/slf4j-simple@1.8.0-beta4?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>com.github.spotbugs</group>
+            <name>spotbugs</name>
+            <version>3.1.12</version>
+            <description>SpotBugs: Because it's easy!</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">88ee528d08db7c871db40a0e5b2dfd85</hash>
+                <hash alg="SHA-1">f44d1e64d96d683cc930622f1cc23b87a0bcd299</hash>
+                <hash alg="SHA-256">b4106b70092dd9737626435caccf9c895801b265824e51f7609df73414ed3988</hash>
+                <hash alg="SHA-384">c50797afa7337e1863a4e44b32419cad5da6ed458513659c7350d9290bad3c825f9f75fa5eea5ba5875e1a1d88e8b1b6</hash>
+                <hash alg="SHA-512">f27658417c5ebb620f32353de4ed0703856e749c0739d3e975af3f5d295c778d9a0d8057d90ec6614aec17b5104bdfa594fbbba39ba276ff47caa25f2fdac4e1</hash>
+            </hashes>
+            <purl>pkg:maven/com.github.spotbugs/spotbugs@3.1.12?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>OW2</publisher>
+            <group>org.ow2.asm</group>
+            <name>asm-commons</name>
+            <version>7.0</version>
+            <description>Usefull class adapters based on ASM, a very small and fast Java bytecode manipulation framework</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">770446a3d6e7f26ded138b5f04eae84f</hash>
+                <hash alg="SHA-1">478006d07b7c561ae3a92ddc1829bca81ae0cdd1</hash>
+                <hash alg="SHA-256">fed348ef05958e3e846a3ac074a12af5f7936ef3d21ce44a62c4fa08a771927d</hash>
+                <hash alg="SHA-384">5096769c920a15959e64671e1b2191f4df6ea4a5b4b1e5655534818f57d6fe8cf4217683e845d214b863af8308a54fb2</hash>
+                <hash alg="SHA-512">ca97b49eece30da774055b58a63c6e4f65a6bc4c0f40a829dcaf7164fbffdec10c6b2d9a22df0a0918fdc83a47ea9906294aa99d3f170b35fd9e0632578c80b2</hash>
+            </hashes>
+            <purl>pkg:maven/org.ow2.asm/asm-commons@7.0?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>OW2</publisher>
+            <group>org.ow2.asm</group>
+            <name>asm-util</name>
+            <version>7.0</version>
+            <description>Utilities for ASM, a very small and fast Java bytecode manipulation framework</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">e3fa78c498141910fa0dacbda87b182c</hash>
+                <hash alg="SHA-1">18d4d07010c24405129a6dbb0e92057f8779fb9d</hash>
+                <hash alg="SHA-256">75fbbca440ef463f41c2b0ab1a80abe67e910ac486da60a7863cbcb5bae7e145</hash>
+                <hash alg="SHA-384">87e29c6f412647d551dcddd6d6f4e42ba0989690df6ab8c144291fcce433707c5be5211c91a4d30839a9aef881767eba</hash>
+                <hash alg="SHA-512">6b9630ad4c5f6abc2724f9d85a7c0e81e524f8b0bf25273dd5578edc20efc7ab400095cd48e904d2536071181a8e9f39635ff3fee0986bd078016d2dff8241b1</hash>
+            </hashes>
+            <purl>pkg:maven/org.ow2.asm/asm-util@7.0?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>OW2</publisher>
+            <group>org.ow2.asm</group>
+            <name>asm-analysis</name>
+            <version>7.0</version>
+            <description>Static code analysis API of ASM, a very small and fast Java bytecode manipulation framework</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">eb378b389aef721ccd1486c1701e8454</hash>
+                <hash alg="SHA-1">4b310d20d6f1c6b7197a75f1b5d69f169bc8ac1f</hash>
+                <hash alg="SHA-256">e981f8f650c4d900bb033650b18e122fa6b161eadd5f88978d08751f72ee8474</hash>
+                <hash alg="SHA-384">bdf9db7f450616fe8abe758198f198776e648f19900e9cfa159308529b963244562a825264c4859fbe89cb8f348c6ca4</hash>
+                <hash alg="SHA-512">1a6ca169e9e2d29256f9c45570d89e5b039eaf7d405ccb3f7f79926552f2a0818975ce2c6adce3f1f59e28172e4303a1c790c52ab06263c61c9c8181ff279cee</hash>
+            </hashes>
+            <purl>pkg:maven/org.ow2.asm/asm-analysis@7.0?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>OW2</publisher>
+            <group>org.ow2.asm</group>
+            <name>asm-tree</name>
+            <version>7.0</version>
+            <description>Tree API of ASM, a very small and fast Java bytecode manipulation framework</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">1879361985d6ccae30837cc3a4ce4d59</hash>
+                <hash alg="SHA-1">29bc62dcb85573af6e62e5b2d735ef65966c4180</hash>
+                <hash alg="SHA-256">cfd7a0874f9de36a999c127feeadfbfe6e04d4a71ee954d7af3d853f0be48a6c</hash>
+                <hash alg="SHA-384">45542c2405b9c4e63d20cad99f73552e2f7a4c439f49b233f03c7d6c0dddc125ed4b837492eca431ca679c5d74c8f39d</hash>
+                <hash alg="SHA-512">81a223620dd16340d18ecba20ab15cfe078f61ab0ec1aef091afcd282e3f6047b9800200412116289ec14917b5ece9414c8009e92cc9a3333c677b5bfec13bcf</hash>
+            </hashes>
+            <purl>pkg:maven/org.ow2.asm/asm-tree@7.0?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>OW2</publisher>
+            <group>org.ow2.asm</group>
+            <name>asm</name>
+            <version>7.0</version>
+            <description>ASM, a very small and fast Java bytecode manipulation framework</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">4cdf9fd77ce48671ff9fd607f2a8a93c</hash>
+                <hash alg="SHA-1">d74d4ba0dee443f68fb2dcb7fcdb945a2cd89912</hash>
+                <hash alg="SHA-256">b88ef66468b3c978ad0c97fd6e90979e56155b4ac69089ba7a44e9aa7ffe9acf</hash>
+                <hash alg="SHA-384">ece91dc20be47d396ae9218b789cd41aa8290ce79b60369c42f2e974647b5fd32898181a0f44b08275e32f07ea9a411f</hash>
+                <hash alg="SHA-512">b31699f50485ddc4e84466064cf5789a3e61bafbec53c4b9cb19ffef07b36722d3efdca8722884fd6d6dedaca65db4dd6f71cd886bba599e8a77971955167a60</hash>
+            </hashes>
+            <purl>pkg:maven/org.ow2.asm/asm@7.0?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>The Apache Software Foundation</publisher>
+            <group>org.apache.bcel</group>
+            <name>bcel</name>
+            <version>6.3</version>
+            <description>Apache Commons Bytecode Engineering Library</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">d7902edf467c020ce9b101d6a0067981</hash>
+                <hash alg="SHA-1">ab01e21304edb070aa840b856a4b26f17f901479</hash>
+                <hash alg="SHA-256">b3ecb009bc5c9afae3c1057fe416db140b2a7dfc75595dd4a2866011c1adf8e5</hash>
+                <hash alg="SHA-384">8bc363df6e9af7b7e31e184d4271d197e52ae9d3780ef93a3551631c5d0f38b7b6202c5adf96e994ad940adc17f2bc54</hash>
+                <hash alg="SHA-512">76073839812981106bb7089668b5421d0d2e1e8bdb272fc79ea5a5d51d27832bb8e8b37c344da173a54a19506d9be43bce727f24c5360aaa530b2ffdbb4a4435</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>Apache-2.0</id>
+                </license>
+            </licenses>
+            <purl>pkg:maven/org.apache.bcel/bcel@6.3?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>net.jcip</group>
+            <name>jcip-annotations</name>
+            <version>1.0</version>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">9d5272954896c5a5d234f66b7372b17a</hash>
+                <hash alg="SHA-1">afba4942caaeaf46aab0b976afd57cc7c181467e</hash>
+                <hash alg="SHA-256">be5805392060c71474bf6c9a67a099471274d30b83eef84bfc4e0889a4f1dcc0</hash>
+                <hash alg="SHA-384">20d12f4a68736b8df736b1de233baff5d8ac5d71b92a1ca10dc1eb61293ef88bd3cb434ab71e9027a6d303849e098f28</hash>
+                <hash alg="SHA-512">cb312b3f571d91ef183c119d878f50464ffd97f853b7311cba386463f295e8b7b3a5a89ed4269a045cacd5aa7cb4c803d4882854a0fddefa9bbc28c72aa6c786</hash>
+            </hashes>
+            <purl>pkg:maven/net.jcip/jcip-annotations@1.0?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>org.dom4j</group>
+            <name>dom4j</name>
+            <version>2.1.1</version>
+            <description>flexible XML framework for Java</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">f5710c1d5f5627ae5ce850a0b12ea87a</hash>
+                <hash alg="SHA-1">3dce5dbb3571aa820c677fadd8349bfa8f00c199</hash>
+                <hash alg="SHA-256">a2ef5fb4990b914a31176c51f6137f6f04253dd165420985051f9fd4fb032128</hash>
+                <hash alg="SHA-384">dcc5d1574e166c14aaa2b582bcb53d0b1310e0bc6cca481a727c4b62784c92416abf25b1665534d58f39d9e52711ad5d</hash>
+                <hash alg="SHA-512">547da0752ffb12ce40800449376f2f7e20f053f816de4ae8adf1a4fad5a3b87ce4e98e95650671a6c9cdcbbf7c20a4b61e711e5ae8d324c923d508bcb07e02e1</hash>
+            </hashes>
+            <purl>pkg:maven/org.dom4j/dom4j@2.1.1?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Codehaus</publisher>
+            <group>jaxen</group>
+            <name>jaxen</name>
+            <version>1.1.6</version>
+            <description>Jaxen is a universal Java XPath engine.</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">a140517286b56eea981e188dcc3a13f6</hash>
+                <hash alg="SHA-1">3f8c36d9a0578e8e98f030c662b69888b1430ac0</hash>
+                <hash alg="SHA-256">5ac9c74bbb3964b34a886ba6b1b6c0b0dc3ebeebc1dc4a44942a76634490b3eb</hash>
+                <hash alg="SHA-384">137b4cda576580a1918c576774cd92e9fc94ff6fe25fd93ff4f040cd67312ae440b28f06e16c2945112cb0f679dee087</hash>
+                <hash alg="SHA-512">6bd11529d6dfcb27ddd485c8da2440d3686cb61693a9461833a2bed49407343df4ba707f45164a6e69b78979581d91fbf0f6c5eab28653dcfa724afc89529778</hash>
+            </hashes>
+            <purl>pkg:maven/jaxen/jaxen@1.1.6?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>commons-lang</group>
+            <name>commons-lang</name>
+            <version>2.6</version>
+            <description>Commons Lang, a package of Java utility classes for the classes that are in java.lang's hierarchy, or are considered to be so standard as to justify existence in java.lang.</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">4d5c1693079575b362edf41500630bbd</hash>
+                <hash alg="SHA-1">0ce1edb914c94ebc388f086c6827e8bdeec71ac2</hash>
+                <hash alg="SHA-256">50f11b09f877c294d56f24463f47d28f929cf5044f648661c0f0cfbae9a2f49c</hash>
+                <hash alg="SHA-384">9725bc421adc1dbcd6f937eca0f3075d186a2b353ece4cef66b0fe81bb8d3f7d7641c43e86d657ef526c719f0c2a8c90</hash>
+                <hash alg="SHA-512">4a5a3dbe4941c645e2cca068cca5c1882cfe988b02e7cd981d1e51784900767d1deab0e0e0566f559c9fcabb4a180e436d5bb948902d4f4106f37360466afb42</hash>
+            </hashes>
+            <purl>pkg:maven/commons-lang/commons-lang@2.6?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>com.github.spotbugs</group>
+            <name>spotbugs-annotations</name>
+            <version>3.1.12</version>
+            <description>Annotations the SpotBugs tool supports</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">3e611c2dfc7976b3732891874d3acc3b</hash>
+                <hash alg="SHA-1">ba2c77a05091820668987292f245f3b089387bfa</hash>
+                <hash alg="SHA-256">b0954eeb5fbca69ab648dab24e812e24587ad67638a101d8fd16363431da7cb7</hash>
+                <hash alg="SHA-384">24ed0c1c67425e255d8005fefbdea700cf2607bec58f4393926e71a4c88abdb41a182781694e83128496c8ff81e217a2</hash>
+                <hash alg="SHA-512">8b4eaba6a44232b3e62f37eaac146c2bd2222d4ab1bc27a8de80130d06d22ab4383c62cf05f5a7ffb7e162b81490c81b1e84d42c6a6ec5a379221a8435edcaed</hash>
+            </hashes>
+            <purl>pkg:maven/com.github.spotbugs/spotbugs-annotations@3.1.12?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>com.google.code.findbugs</group>
+            <name>jsr305</name>
+            <version>3.0.2</version>
+            <description>JSR305 Annotations for Findbugs</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">dd83accb899363c32b07d7a1b2e4ce40</hash>
+                <hash alg="SHA-1">25ea2e8b0c338a877313bd4672d3fe056ea78f0d</hash>
+                <hash alg="SHA-256">766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7</hash>
+                <hash alg="SHA-384">ca0b169d3eb2d0922dc031133a021f861a043bb3e405a88728215fd6ff00fa52fdc7347842dcc2031472e3726164bdc4</hash>
+                <hash alg="SHA-512">bb09db62919a50fa5b55906013be6ca4fc7acb2e87455fac5eaf9ede2e41ce8bbafc0e5a385a561264ea4cd71bbbd3ef5a45e02d63277a201d06a0ae1636f804</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>Apache-2.0</id>
+                </license>
+            </licenses>
+            <purl>pkg:maven/com.google.code.findbugs/jsr305@3.0.2?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>com.h3xstream.findsecbugs</group>
+            <name>findsecbugs-plugin</name>
+            <version>1.9.0</version>
+            <description>Core module of the project. It include all the FindBugs detectors. The resulting jar is the published plugin.</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">835db1e3bea68fbec6d8ab3b78a43faf</hash>
+                <hash alg="SHA-1">f8b7b42c7008ad126ac12b5ee4ade33ca9ef56a1</hash>
+                <hash alg="SHA-256">0e2fcbdd15e6c333b6450c63e2f4ee89f0f3d4f85862e41c0b1d3e5de9a566c9</hash>
+                <hash alg="SHA-384">08267fef1e8f64f49d7a84148f634d54b49a233304763c62c9d1d57088e114aa93b60b75c435cc2092496b8c1442cf95</hash>
+                <hash alg="SHA-512">7cc3ec65fbb7dd114b306d50ac88c25acedaa211c09c6785e771d3c831ad5083b19512922431deee89c0c2dd970d65ecd2bb31b27b616a6418ef3b6b1addda41</hash>
+            </hashes>
+            <purl>pkg:maven/com.h3xstream.findsecbugs/findsecbugs-plugin@1.9.0?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Pivotal Software, Inc.</publisher>
+            <group>org.springframework.boot</group>
+            <name>spring-boot-starter-test</name>
+            <version>1.5.13.RELEASE</version>
+            <description>Starter for testing Spring Boot applications with libraries including JUnit, Hamcrest and Mockito</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">7e92a3cd93dca61df443a4d32320756c</hash>
+                <hash alg="SHA-1">d95942a1b5650e9a4ec83f64642c8720adabfdb2</hash>
+                <hash alg="SHA-256">e5e4dedb06feb6bb99b56ce9d0523c447cff2cb7f92a64a17313cad0e1dcb0d1</hash>
+                <hash alg="SHA-384">0dc13afdb1153053e9c5fa47dfcc72bab7d347df9aec43e08fd66666155cc236d4bd589ce5cea632d4f053de9507aee0</hash>
+                <hash alg="SHA-512">0dad4a6ae5e44adcc97659216544f6dc5ca23709c1c1e32e4cbe5b0ee124060ba5e2caab3e3d3c449b503ff4ef5a55b619047da8ab6b2aa0428c5369dfa085bb</hash>
+            </hashes>
+            <purl>pkg:maven/org.springframework.boot/spring-boot-starter-test@1.5.13.RELEASE?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Pivotal Software, Inc.</publisher>
+            <group>org.springframework.boot</group>
+            <name>spring-boot-test-autoconfigure</name>
+            <version>1.5.13.RELEASE</version>
+            <description>Spring Boot Test Auto-Configure</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">ac5759caa949eeeab05e9a9f57fba9c2</hash>
+                <hash alg="SHA-1">dee40ade119e2d69de4595b0c8becd71ad75b6ea</hash>
+                <hash alg="SHA-256">c78af3f44d3e679d30ef4e9bba3a9c7c858bcdcebd0624061525b7d4feaad455</hash>
+                <hash alg="SHA-384">5bcbd206a605ff848eb9f93269d48fe5972d09b5a29c90a7b420d0840842ca8d034ee70ce6a0f35d8992b149cad84ebb</hash>
+                <hash alg="SHA-512">e351520808c55b19b5d64c6069116c3527372ea39cc3a413e3c5d64cdca71fb336f8ebd3e345bbccae342e51a2b51063efa69f9c85e32dcd8538c5f2e14c9261</hash>
+            </hashes>
+            <purl>pkg:maven/org.springframework.boot/spring-boot-test-autoconfigure@1.5.13.RELEASE?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Pivotal Software, Inc.</publisher>
+            <group>org.springframework.boot</group>
+            <name>spring-boot-test</name>
+            <version>1.5.13.RELEASE</version>
+            <description>Spring Boot Test</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">e3b3fc4e0b32f4dbe47cbc67b517a166</hash>
+                <hash alg="SHA-1">8eb4c6dc64592adca85a16382c63f6a3460b3d1f</hash>
+                <hash alg="SHA-256">41a2265e4650f4da52aff5d63c1abb6999c081857d76d9b2458b75edda8eefc9</hash>
+                <hash alg="SHA-384">e102af7ffbaa085e39637c4479d4fe5f8244accf27dbae1135df417f38ed156222f9124cbea418187fa9a4b5aa955681</hash>
+                <hash alg="SHA-512">68ee755829932a1cfebb39598ca02b8a7ce05bb0090c96ba0794c706921ba845a7438efad60090c78b427572a573c6487bb2ea6e7b5ee6f13b7137797fa2235f</hash>
+            </hashes>
+            <purl>pkg:maven/org.springframework.boot/spring-boot-test@1.5.13.RELEASE?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>com.jayway.jsonpath</group>
+            <name>json-path</name>
+            <version>2.2.0</version>
+            <description>Java port of Stefan Goessner JsonPath.</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">98ec1b51b19c21a32845ba3498df6629</hash>
+                <hash alg="SHA-1">22290d17944bd239fabf5ac69005a60a7ecbbbcb</hash>
+                <hash alg="SHA-256">f74833d885773a0a3a937ebdb632ca2ff6d95b52cf7f5725de6dd688844207cd</hash>
+                <hash alg="SHA-384">4ec3d43f040f8138571b535e3af2a840916531ebcbd140f228859ab01292a669e105a9cc890e3f7897d11bfcf48a4451</hash>
+                <hash alg="SHA-512">5079024aeba519cae69f3c432c3158f892916c77fb7cf4a388dfb7b99660806c349c51b3240fc042ec9abd959339a8b64e8b379f1356de6d50f4a77dca0d6bc8</hash>
+            </hashes>
+            <purl>pkg:maven/com.jayway.jsonpath/json-path@2.2.0?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>JUnit</publisher>
+            <group>junit</group>
+            <name>junit</name>
+            <version>4.12</version>
+            <description>JUnit is a unit testing framework for Java, created by Erich Gamma and Kent Beck.</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">5b38c40c97fbd0adee29f91e60405584</hash>
+                <hash alg="SHA-1">2973d150c0dc1fefe998f834810d68f278ea58ec</hash>
+                <hash alg="SHA-256">59721f0805e223d84b90677887d9ff567dc534d7c502ca903c0c2b17f05c116a</hash>
+                <hash alg="SHA-384">e2f0c2db405e282d0f84a1766b9e8d9736d4377e292a5ef8457aec10384f9077005865167025b2779634d75bcb4d62cd</hash>
+                <hash alg="SHA-512">5974670c3d178a12da5929ba5dd9b4f5ff461bdc1b92618c2c36d53e88650df7adbf3c1684017bb082b477cb8f40f15dcf7526f06f06183f93118ba9ebeaccce</hash>
+            </hashes>
+            <purl>pkg:maven/junit/junit@4.12?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>org.assertj</group>
+            <name>assertj-core</name>
+            <version>2.6.0</version>
+            <description>Rich and fluent assertions for testing</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">1c7a969eeb11e3dd854a6a5f417f5cf2</hash>
+                <hash alg="SHA-1">b532c3fc4f66bcfee4989a3514f1cd56203a33ad</hash>
+                <hash alg="SHA-256">d20c78593c85bd6efe7af2de8ea0b7f2e0288ca6076b52e584bad52188ec7c7b</hash>
+                <hash alg="SHA-384">9d868c7ef1bed38d3670b472ec2cac9962c0baef8336497750b0ccf2b5b40189f1d924f1f4302f8499ae616eb75cfbc6</hash>
+                <hash alg="SHA-512">d98d938dae7be0ff2bb3c4ac2560620290d49b7fd366411f8468f77dbb522597fbce144a96d4688c3aa1c1fd361c8d93f438770aff985d56772c43dd26e53e3d</hash>
+            </hashes>
+            <purl>pkg:maven/org.assertj/assertj-core@2.6.0?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>org.mockito</group>
+            <name>mockito-core</name>
+            <version>1.10.19</version>
+            <description>Mock objects library for java</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">c1967f0a515c4b8155f62478ec823464</hash>
+                <hash alg="SHA-1">e8546f5bef4e061d8dd73895b4e8f40e3fe6effe</hash>
+                <hash alg="SHA-256">d5831ee4f71055800821a34a3051cf1ed5b3702f295ffebd50f65fb5d81a71b8</hash>
+                <hash alg="SHA-384">21af70f9cdea1c17cdc44d480bdd9b9be93389034b0caef7cde51b8c2a476159632be2ea93c1771813eae7f175e10230</hash>
+                <hash alg="SHA-512">15222889398341f867c4e9cc2884cd37eafff68542a28c852382bded5d7d76b67831f006a36f8f069524ccf9acd1295f9b5267ec8b2f1f49470b3fc6aedfc548</hash>
+            </hashes>
+            <purl>pkg:maven/org.mockito/mockito-core@1.10.19?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>org.hamcrest</group>
+            <name>hamcrest-library</name>
+            <version>1.3</version>
+            <description>Hamcrest library of matcher implementations.</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">110ad2ea84f7031a1798648b6b318e79</hash>
+                <hash alg="SHA-1">4785a3c21320980282f9f33d0d1264a69040538f</hash>
+                <hash alg="SHA-256">711d64522f9ec410983bd310934296da134be4254a125080a0416ec178dfad1c</hash>
+                <hash alg="SHA-384">a9f2da31035c0efbeccc5577c75a6bbd985d43dbe7112ca29543d9f29d68337170f585a08fb2a6d55c077abcf1c8dee0</hash>
+                <hash alg="SHA-512">6d70f03c36c682812a4b499f911f4fa12bac2461c4e391e7dd956e11f76ca0ac960c39e473ad45341e1f1e7113aac231a9faa1e921d50ff4d770e0f0bca75a4c</hash>
+            </hashes>
+            <purl>pkg:maven/org.hamcrest/hamcrest-library@1.3?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>org.hamcrest</group>
+            <name>hamcrest-core</name>
+            <version>1.3</version>
+            <description>This is the core API of hamcrest matcher framework to be used by third-party framework providers. This includes the a foundation set of matcher implementations for common operations.</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">6393363b47ddcbba82321110c3e07519</hash>
+                <hash alg="SHA-1">42a25dc3219429f0e5d060061f71acb49bf010a0</hash>
+                <hash alg="SHA-256">66fdef91e9739348df7a096aa384a5685f4e875584cce89386a7a47251c4d8e9</hash>
+                <hash alg="SHA-384">4b5297d2a12cc32b824153afc83f1ba9f1869ca288330f0a2f759659d09e4c420eb6ba4a1efbfa0657b625edd41293d5</hash>
+                <hash alg="SHA-512">e237ae735aac4fa5a7253ec693191f42ef7ddce384c11d29fbf605981c0be077d086757409acad53cb5b9e53d86a07cc428d459ff0f5b00d32a8cbbca390be49</hash>
+            </hashes>
+            <purl>pkg:maven/org.hamcrest/hamcrest-core@1.3?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>org.skyscreamer</group>
+            <name>jsonassert</name>
+            <version>1.4.0</version>
+            <description>A library to develop RESTful but flexible APIs</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">5d8b0cc1089c3dc08214f86a873d895b</hash>
+                <hash alg="SHA-1">9cdbb373a06f6513e51e8c545ee6a5e981463edb</hash>
+                <hash alg="SHA-256">35f6b365e54add81472e6069f71daca8de0c3a5c7db46febd18009b95e2784b7</hash>
+                <hash alg="SHA-384">3fb50aff5466391815ab60f8d57b81b99877be19ca69ef55f31288f9b7550837615ca95a11883071a9c058d936e3c220</hash>
+                <hash alg="SHA-512">3fc90618285b5770a0208c91dd9b7059f2bab4f2a7ee090ca71326730e0a51d54650ca7e61af24e390daad59318c65fa4b7c0f375d61bae204a95828d3012ca3</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>Apache-2.0</id>
+                </license>
+            </licenses>
+            <purl>pkg:maven/org.skyscreamer/jsonassert@1.4.0?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Spring IO</publisher>
+            <group>org.springframework</group>
+            <name>spring-test</name>
+            <version>4.3.17.RELEASE</version>
+            <description>Spring TestContext Framework</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">183fca966c82f01efa98c2b6bef00536</hash>
+                <hash alg="SHA-1">e35e710720cb3cee1efa3c9cd2f7dc80e579950d</hash>
+                <hash alg="SHA-256">f8636d0e4738914a5f5d8e072148208f28c6eae4179122106781f926a1da8fe8</hash>
+                <hash alg="SHA-384">4dec0d888ae170fd1d6d179a7952eed2fbc3cd26e915103806f5df35f92817a316c3f9dd4d08ef74ecb396a6dc596c3f</hash>
+                <hash alg="SHA-512">b765e7e7d555ef3873e88a8888f6c4d576042d9eef5a3218e4c1d581aa36ddf4e3fe498c29946fa1d95696c4fe0e82860afc27999d2e1228230aa758ce302200</hash>
+            </hashes>
+            <purl>pkg:maven/org.springframework/spring-test@4.3.17.RELEASE?type=jar</purl>
+        </component>
+        <component type="library">
+            <publisher>Chemouni Uriel</publisher>
+            <group>net.minidev</group>
+            <name>json-smart</name>
+            <version>2.2.1</version>
+            <description>JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the JavaScript Programming Language, Standard ECMA-262 3rd Edition - December 1999. JSON is a text format that is completely language independent but uses conventions that are familiar to programmers of the C-family of languages, including C, C++, C#, Java, JavaScript, Perl, Python, and many others. These properties make JSON an ideal data-interchange language.</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">4c82c537eb0ba92adad494283711cc11</hash>
+                <hash alg="SHA-1">5b9e5df7a62d1279b70dc882b041d249c4f0b002</hash>
+                <hash alg="SHA-256">871ff1fca0709fbf924a86704f1c7070e1ee774881c76feb1ba781351efe4693</hash>
+                <hash alg="SHA-384">d1b092726407e636f4dd35820a4c0d72cd47f639421478c4f24f8162f80ff8bdec17f1c57bd09910491ec7447fa2df5f</hash>
+                <hash alg="SHA-512">4cedd3b6161ba5e91595cb7fa99ecac08e45085ed29bb61ae68d365732d34eb21de8832474f40a0ba546ab03e84d66d7ad30e0fcfc8787f2215af95a19212e14</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>Apache-2.0</id>
+                </license>
+            </licenses>
+            <purl>pkg:maven/net.minidev/json-smart@2.2.1?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>org.objenesis</group>
+            <name>objenesis</name>
+            <version>2.1</version>
+            <description>A library for instantiating Java objects</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">32ccb1d20a42b5aaaceb90c9082a2efa</hash>
+                <hash alg="SHA-1">87c0ea803b69252868d09308b4618f766f135a96</hash>
+                <hash alg="SHA-256">c74330cc6b806c804fd37e74487b4fe5d7c2750c5e15fbc6efa13bdee1bdef80</hash>
+                <hash alg="SHA-384">657b8a3b80a5475f198425396f7264301f9e0f3ad5dc336ef0c7b46874f5544861a8a2fd48cdb5f672e199a6935c19d1</hash>
+                <hash alg="SHA-512">1dec9ee30812b8006e536a2749c5781ccdc4b446539efb6fa534f22e70562033876bf2eb22c6946d617695729bd65f0f65b984f15f05ac63db5bed215e74427c</hash>
+            </hashes>
+            <purl>pkg:maven/org.objenesis/objenesis@2.1?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>com.vaadin.external.google</group>
+            <name>android-json</name>
+            <version>0.0.20131108.vaadin1</version>
+            <description>  JSON (JavaScript Object Notation) is a lightweight data-interchange format. This is the org.json compatible Android implementation extracted from the Android SDK  </description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">10612241a9cc269501a7a2b8a984b949</hash>
+                <hash alg="SHA-1">fa26d351fe62a6a17f5cda1287c1c6110dec413f</hash>
+                <hash alg="SHA-256">dfb7bae2f404cfe0b72b4d23944698cb716b7665171812a0a4d0f5926c0fac79</hash>
+                <hash alg="SHA-384">60d1044b5439cdf5eb621118cb0581365ab4f023a30998b238b87854236f03d8395d45b0262fb812335ff904cb77f25f</hash>
+                <hash alg="SHA-512">c4a06a0a3ce7bdbee702c06944265c050a4c8d2fbd21c248936e2edfdab63acea30f2cf3568d3c21a559940d939985a8b10d30aff972a3e8cbeb392c0b02da3a</hash>
+            </hashes>
+            <purl>pkg:maven/com.vaadin.external.google/android-json@0.0.20131108.vaadin1?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>net.minidev</group>
+            <name>accessors-smart</name>
+            <version>1.1</version>
+            <description>Java reflect give poor performance on getter setter an constructor calls, accessors-smart use ASM to speed up those calls.</description>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">b75cda0d7dadff9e6c20f4e7f3c3bc82</hash>
+                <hash alg="SHA-1">a527213f2fea112a04c9bdf0ec0264e34104cd08</hash>
+                <hash alg="SHA-256">e6e04753913546da3ff0fbf532ac2831d0266f69246b1e6e295ba367aa9f02a5</hash>
+                <hash alg="SHA-384">875629f2aaf78f75108a7892256a552a2c2fb34f43c2e5ddb7bdb2f230b10dfb2f516d9629f9dda1f2b62d4e9413adb6</hash>
+                <hash alg="SHA-512">aeee2ef3f5464cbbd18b55f1776fb0b865c7d88965a770ef5da58c7336f4a98f9c92ebb7176c511debda864bddb983940c94b31e269ee63b9dd4ee392ac57e07</hash>
+            </hashes>
+            <purl>pkg:maven/net.minidev/accessors-smart@1.1?type=jar</purl>
+        </component>
+        <component type="library">
+            <group>org.ow2.asm</group>
+            <name>asm</name>
+            <version>5.0.3</version>
+            <scope>required</scope>
+            <hashes>
+                <hash alg="MD5">ccebee99fb8cdd50e1967680a2eac0ba</hash>
+                <hash alg="SHA-1">dcc2193db20e19e1feca8b1240dbbc4e190824fa</hash>
+                <hash alg="SHA-256">71c4f78e437b8fdcd9cc0dfd2abea8c089eb677005a6a5cff320206cc52b46cc</hash>
+                <hash alg="SHA-384">1421b54bd826aae1712c0e676cd7a02fe599baefeb8bfe9b7f57a58ebdad051de01972797f3a0d694ebb82622c2bbf49</hash>
+                <hash alg="SHA-512">d35bda1ecf09753572fd0582d2e79f07bbd563ca936d1238690d4bedaf57c68512580c49aba75d03fda41db27b84fc5cb276b8cfd990167ccc9dbecbc69f388d</hash>
+            </hashes>
+            <purl>pkg:maven/org.ow2.asm/asm@5.0.3?type=jar</purl>
+        </component>
+    </components>
+</bom>
